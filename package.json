@@ -1,0 +1,31 @@
+{
+  "name": "concerto",
+  "version": "1.0.0",
+  "description": "First Major Project. Learning Management System.",
+  "main": "myapp.js",
+  "dependencies": {
+    "finalhandler": "^0.4.0",
+    "http": "^0.0.0",
+    "ui-router": "^0.2.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PWAckerman/concerto.git"
+  },
+  "keywords": [
+    "learning",
+    "education",
+    "management",
+    "system"
+  ],
+  "author": "P. Ackerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PWAckerman/concerto/issues"
+  },
+  "homepage": "https://github.com/PWAckerman/concerto#readme"
+}
